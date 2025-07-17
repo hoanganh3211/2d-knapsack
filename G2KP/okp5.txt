@@ -1,0 +1,11 @@
+itemNumber 97
+itemClassNumber 29
+itemClass_widthVector 8 5 42 6 41 6 58 99 9 100 7 24 23 42 17 11 26 11 100 29 10 25 17 77 3 89 1 12 21
+itemClass_lengthVector 81 76 19 80 48 86 20 3 52 14 53 54 77 32 30 90 65 84 11 81 64 48 93 31 71 9 6 99 26
+itemClass_demand 3 4 4 4 1 5 5 5 5 4 5 1 1 5 5 4 2 3 1 1 2 1 4 1 5 4 5 2 5
+binNumber 10000
+binClassNumber 1
+binClass_widthVector 100
+binClass_lengthVector 100
+binClass_disponibility 1000
+itemClass_weight 953 389 1668 676 3580 1416 3166 537 1176 3434 676 1408 2362 4031 1152 2255 3570 1913 1552 4559 713 1279 3989 4850 299 1577 12 2116 1214

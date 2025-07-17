@@ -1,0 +1,11 @@
+itemNumber 20
+itemClassNumber 20
+itemClass_widthVector 5 4 3 2 5 4 3 2 5 4 3 2 5 4 3 2 4 6 5 4
+itemClass_lengthVector 13 1 3 3 1 7 7 5 1 13 2 4 2 10 7 1 3 13 2 2
+itemClass_demand 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+binNumber 10000
+binClassNumber 1
+binClass_widthVector 20
+binClass_lengthVector 20
+binClass_disponibility 1000
+itemClass_weight 650 50 150 150 50 350 350 250 50 650 100 200 100 500 350 50 165 728 112 104
